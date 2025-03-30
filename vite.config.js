@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // base: 'http://localhost/dist/', // Set '/' if deployed at the domain root
-  base: 'https://akshay-patil-dav.github.io/react-app/'
+  base: 'https://akshay-patil-dav.github.io/react-app/dist'
 })
